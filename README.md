@@ -61,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Amans2002/coding/tree/master/2149-rearrange-array-elements-by-sign) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/Amans2002/coding/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
