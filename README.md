@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Amans2002/coding/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Amans2002/coding/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Amans2002/coding/tree/master/0485-max-consecutive-ones) |
+| [0922-sort-array-by-parity-ii](https://github.com/Amans2002/coding/tree/master/0922-sort-array-by-parity-ii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Amans2002/coding/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Amans2002/coding/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amans2002/coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Amans2002/coding/tree/master/0283-move-zeroes) |
+| [0922-sort-array-by-parity-ii](https://github.com/Amans2002/coding/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Amans2002/coding/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Amans2002/coding/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Amans2002/coding/tree/master/0229-majority-element-ii) |
+| [0922-sort-array-by-parity-ii](https://github.com/Amans2002/coding/tree/master/0922-sort-array-by-parity-ii) |
 ## Counting
 |  |
 | ------- |
