@@ -89,9 +89,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Amans2002/coding/tree/master/1021-remove-outermost-parentheses) |
 | [2490-circular-sentence](https://github.com/Amans2002/coding/tree/master/2490-circular-sentence) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Amans2002/coding/tree/master/0055-jump-game) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Amans2002/coding/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Amans2002/coding/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
