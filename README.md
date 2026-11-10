@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Amans2002/coding/tree/master/0922-sort-array-by-parity-ii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Amans2002/coding/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Amans2002/coding/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3693-climbing-stairs-ii](https://github.com/Amans2002/coding/tree/master/3693-climbing-stairs-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Amans2002/coding/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Amans2002/coding/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amans2002/coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3693-climbing-stairs-ii](https://github.com/Amans2002/coding/tree/master/3693-climbing-stairs-ii) |
 ## Simulation
 |  |
 | ------- |
