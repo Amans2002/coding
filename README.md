@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Amans2002/coding/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/Amans2002/coding/tree/master/3870-count-commas-in-range) |
 ## Binary Search
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Amans2002/coding/tree/master/0055-jump-game) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Amans2002/coding/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Stack
 |  |
 | ------- |
