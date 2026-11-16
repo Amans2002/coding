@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Amans2002/coding/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Amans2002/coding/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Amans2002/coding/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Amans2002/coding/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Amans2002/coding/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Amans2002/coding/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Amans2002/coding/tree/master/0540-single-element-in-a-sorted-array) |
@@ -37,11 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Amans2002/coding/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Amans2002/coding/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Amans2002/coding/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Amans2002/coding/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Amans2002/coding/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Amans2002/coding/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Amans2002/coding/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Amans2002/coding/tree/master/0268-missing-number) |
 | [0922-sort-array-by-parity-ii](https://github.com/Amans2002/coding/tree/master/0922-sort-array-by-parity-ii) |
 ## Counting
 |  |
@@ -77,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Amans2002/coding/tree/master/0268-missing-number) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Amans2002/coding/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/Amans2002/coding/tree/master/3870-count-commas-in-range) |
 ## Binary Search
@@ -86,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Amans2002/coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Amans2002/coding/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Amans2002/coding/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Amans2002/coding/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Amans2002/coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Amans2002/coding/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Amans2002/coding/tree/master/0875-koko-eating-bananas) |
