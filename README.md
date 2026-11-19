@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Amans2002/coding/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Amans2002/coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Amans2002/coding/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/Amans2002/coding/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Amans2002/coding/tree/master/0875-koko-eating-bananas) |
 | [0922-sort-array-by-parity-ii](https://github.com/Amans2002/coding/tree/master/0922-sort-array-by-parity-ii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Amans2002/coding/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Amans2002/coding/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Amans2002/coding/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Amans2002/coding/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/Amans2002/coding/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
