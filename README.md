@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Amans2002/coding/tree/master/0875-koko-eating-bananas) |
 | [0922-sort-array-by-parity-ii](https://github.com/Amans2002/coding/tree/master/0922-sort-array-by-parity-ii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Amans2002/coding/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2126-destroying-asteroids](https://github.com/Amans2002/coding/tree/master/2126-destroying-asteroids) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Amans2002/coding/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3693-climbing-stairs-ii](https://github.com/Amans2002/coding/tree/master/3693-climbing-stairs-ii) |
 ## Two Pointers
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Amans2002/coding/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Amans2002/coding/tree/master/0268-missing-number) |
 | [0922-sort-array-by-parity-ii](https://github.com/Amans2002/coding/tree/master/0922-sort-array-by-parity-ii) |
+| [2126-destroying-asteroids](https://github.com/Amans2002/coding/tree/master/2126-destroying-asteroids) |
 ## Counting
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Amans2002/coding/tree/master/0055-jump-game) |
+| [2126-destroying-asteroids](https://github.com/Amans2002/coding/tree/master/2126-destroying-asteroids) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Amans2002/coding/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Stack
 |  |
