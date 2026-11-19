@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Amans2002/coding/tree/master/1021-remove-outermost-parentheses) |
+| [2315-count-asterisks](https://github.com/Amans2002/coding/tree/master/2315-count-asterisks) |
 | [2490-circular-sentence](https://github.com/Amans2002/coding/tree/master/2490-circular-sentence) |
 ## Greedy
 |  |
