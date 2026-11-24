@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Amans2002/coding/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Amans2002/coding/tree/master/0875-koko-eating-bananas) |
 | [0922-sort-array-by-parity-ii](https://github.com/Amans2002/coding/tree/master/0922-sort-array-by-parity-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Amans2002/coding/tree/master/1352-product-of-the-last-k-numbers) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Amans2002/coding/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2126-destroying-asteroids](https://github.com/Amans2002/coding/tree/master/2126-destroying-asteroids) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Amans2002/coding/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Amans2002/coding/tree/master/0268-missing-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Amans2002/coding/tree/master/1352-product-of-the-last-k-numbers) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Amans2002/coding/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/Amans2002/coding/tree/master/3870-count-commas-in-range) |
 ## Binary Search
@@ -122,4 +124,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Amans2002/coding/tree/master/1021-remove-outermost-parentheses) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Amans2002/coding/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Amans2002/coding/tree/master/1352-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Amans2002/coding/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
